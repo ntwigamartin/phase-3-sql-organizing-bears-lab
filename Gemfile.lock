@@ -20,7 +20,7 @@ GEM
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.8.0)
     rspec-support (3.8.0)
-    sqlite3 (1.4.2)
+    sqlite3 (1.6.0-x86_64-linux)
 
 PLATFORMS
   ruby
